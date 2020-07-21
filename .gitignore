@@ -440,3 +440,6 @@ dkms.conf
 
 /Section1_Downloading_and_installing/build-6_Hello_World-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/
 /Section1_Downloading_and_installing/build-6_Hello_World-Desktop_Qt_5_15_0_MinGW_64_bit-Release/
+.idea
+/Section2_Beginning_CPP/build-8_Command_line_project-Desktop_Qt_5_15_0_MinGW_64_bit-Release/
+/Section2_Beginning_CPP/build-8_Command_line_project-Desktop_Qt_5_15_0_MinGW_64_bit-Debug/
